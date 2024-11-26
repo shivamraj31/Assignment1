@@ -1,0 +1,73 @@
+1. Who developed Python Programming Language?
+Guido van Rossum
+
+
+2. Which type of Programming does Python support?
+Python supports multiple programming paradigms, including procedural, object-oriented, and functional programming.
+
+
+3. Is Python case sensitive when dealing with identifiers?
+Yes, Python is case-sensitive when dealing with identifiers.
+
+
+4. What is the correct extension of the Python file?
+The correct extension for a Python file is .py.
+
+
+5. Is Python code compiled or interpreted?
+Python code is interpreted.
+
+
+6. Name a few blocks of code used to define in Python language?
+A few blocks of code include functions, loops, and conditional statements.
+
+
+7. State a character used to give single-line comments in Python?
+The character for single-line comments is #.
+
+
+8. Mention functions which can help us to find the version of Python that we are currently working on?
+Functions like sys.version or platform.python_version() help find the Python version.
+
+
+9. Python supports the creation of anonymous functions at runtime, using a construct called
+lambda
+
+
+10. What does pip stand for in Python?
+PIP stands for "Pip Installs Packages".
+
+
+11. Mention a few built-in functions in Python?
+Some built-in functions include print(), len(), input(), type(), range().
+
+
+12. What is the maximum possible length of an identifier in Python?
+The maximum length of an identifier in Python is unlimited (practically constrained by memory).
+
+
+13. What are the benefits of using Python?
+Benefits of Python: Easy syntax, large standard library, portability, extensive libraries for AI, ML, and web development.
+
+
+14. How is memory managed in Python?
+Memory is managed in Python using reference counting, garbage collection, and memory pooling.
+
+
+15. How to install Python on Windows and set path variables?
+
+Install Python from its official website.
+
+Run the installer and select Add Python to PATH during setup.
+
+To set the PATH manually:
+
+Open Environment Variables in Windows settings.
+
+Add the Python installation directory to the PATH variable.
+
+
+
+
+16. Is indentation required in Python?
+Yes, indentation is required in Python to define the structure of the code. It replaces braces or other delimiters used in other programming languages.
